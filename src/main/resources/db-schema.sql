@@ -1,0 +1,4 @@
+CREATE TABLE momoclo (
+  name VARCHAR(10) NOT NULL,
+  color VARCHAR(10) NOT NULL
+);
